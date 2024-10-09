@@ -3,7 +3,9 @@
 ## Solution [here](https://youtu.be/X6DNbZbzKuA)
 
 ### Run the following Commands in CloudShell
-
+```
+export REGION={region name}
+```
 ```
 export BUCKET_1=
 export BUCKET_2=
