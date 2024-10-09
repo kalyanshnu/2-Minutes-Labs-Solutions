@@ -3,7 +3,7 @@
 ## Solution [here](https://youtu.be/ROLigBsAx3A)
 
 ### Run the following Commands in CloudShell
-
+export REGION={region name}
 ```
 curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Google%20Cloud%20Storage%20-%20Bucket%20Lock/gsp297.sh
 
